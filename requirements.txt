@@ -1,0 +1,7 @@
+twython
+vaderSentiment
+nltk
+emoji
+contractions
+textblob
+string
